@@ -4,3 +4,6 @@
 [submodule "framework/laravel"]
 	path = framework/laravel
 	url = https://github.com/laravel/laravel.git
+[submodule "framework/zf2"]
+	path = framework/zf2
+	url = https://github.com/zendframework/zf2.git
