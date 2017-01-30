@@ -11,14 +11,18 @@ $root = realpath(__DIR__ . '/..') . '/';
 $target = [
   'src',
   'framework/beaba',
+  'framework/cakephp',
   'framework/CodeIgniter',
+  'framework/drupal',
   'framework/evernote-cloud-sdk-php',
   'framework/laravel',
   'framework/magento1',
   'framework/magento2',
   'framework/opencart',
+  'framework/php-langspec',
   'framework/symfony',
   'framework/tcpdf',
+  'framework/wordpress',
   'framework/yii2',
   'framework/zf2'
 ];
@@ -67,3 +71,5 @@ foreach($target as $path) {
     }
   }
 }
+
+echo "\n\nScan finished\n\n";
