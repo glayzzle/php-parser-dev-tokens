@@ -28,3 +28,6 @@
 [submodule "framework/magento2"]
 	path = framework/magento2
 	url = https://github.com/magento/magento2
+[submodule "framework/opencart"]
+	path = framework/opencart
+	url = https://github.com/opencart/opencart.git
