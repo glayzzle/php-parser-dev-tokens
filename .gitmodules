@@ -31,3 +31,12 @@
 [submodule "framework/opencart"]
 	path = framework/opencart
 	url = https://github.com/opencart/opencart.git
+[submodule "framework/php-langspec"]
+	path = framework/php-langspec
+	url = https://github.com/glayzzle/php-langspec.git
+[submodule "framework/cakephp"]
+	path = framework/cakephp
+	url = https://github.com/cakephp/cakephp.git
+[submodule "framework/wordpress"]
+	path = framework/wordpress
+	url = https://github.com/WordPress/WordPress.git
