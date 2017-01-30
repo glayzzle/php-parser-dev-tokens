@@ -16,3 +16,6 @@
 [submodule "framework/evernote-cloud-sdk-php"]
 	path = framework/evernote-cloud-sdk-php
 	url = https://github.com/evernote/evernote-cloud-sdk-php.git
+[submodule "framework/yii2"]
+	path = framework/yii2
+	url = https://github.com/yiisoft/yii2.git
