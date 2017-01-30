@@ -10,3 +10,6 @@
 [submodule "framework/symfony"]
 	path = framework/symfony
 	url = https://github.com/symfony/symfony.git
+[submodule "framework/tcpdf"]
+	path = framework/tcpdf
+	url = https://github.com/tecnickcom/TCPDF
