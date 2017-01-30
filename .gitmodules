@@ -1,3 +1,6 @@
 [submodule "framework/beaba"]
 	path = framework/beaba
 	url = https://github.com/ichiriac/beaba.git
+[submodule "framework/laravel"]
+	path = framework/laravel
+	url = https://github.com/laravel/laravel.git
