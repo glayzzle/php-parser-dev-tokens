@@ -13,3 +13,6 @@
 [submodule "framework/tcpdf"]
 	path = framework/tcpdf
 	url = https://github.com/tecnickcom/TCPDF
+[submodule "framework/evernote-cloud-sdk-php"]
+	path = framework/evernote-cloud-sdk-php
+	url = https://github.com/evernote/evernote-cloud-sdk-php.git
