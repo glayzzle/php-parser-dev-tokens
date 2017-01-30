@@ -25,3 +25,6 @@
 [submodule "framework/magento1"]
 	path = framework/magento1
 	url = https://github.com/bragento/magento-core
+[submodule "framework/magento2"]
+	path = framework/magento2
+	url = https://github.com/magento/magento2
