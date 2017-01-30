@@ -22,3 +22,6 @@
 [submodule "framework/CodeIgniter"]
 	path = framework/CodeIgniter
 	url = https://github.com/bcit-ci/CodeIgniter.git
+[submodule "framework/magento1"]
+	path = framework/magento1
+	url = https://github.com/bragento/magento-core
