@@ -19,3 +19,6 @@
 [submodule "framework/yii2"]
 	path = framework/yii2
 	url = https://github.com/yiisoft/yii2.git
+[submodule "framework/CodeIgniter"]
+	path = framework/CodeIgniter
+	url = https://github.com/bcit-ci/CodeIgniter.git
