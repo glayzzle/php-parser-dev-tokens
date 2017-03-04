@@ -25,6 +25,7 @@ $target = [
   'framework/tcpdf',
   'framework/wordpress',
   'framework/yii2',
+  'framework/yii1',
   'framework/zf2',
 ];
 

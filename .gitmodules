@@ -46,3 +46,6 @@
 [submodule "framework/htmlpurifier"]
 	path = framework/htmlpurifier
 	url = https://github.com/ezyang/htmlpurifier.git
+[submodule "framework/yii1"]
+	path = framework/yii1
+	url = https://github.com/yiisoft/yii.git
