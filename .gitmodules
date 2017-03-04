@@ -43,3 +43,6 @@
 [submodule "framework/drupal"]
 	path = framework/drupal
 	url = https://github.com/drupal/drupal
+[submodule "framework/htmlpurifier"]
+	path = framework/htmlpurifier
+	url = https://github.com/ezyang/htmlpurifier.git
