@@ -15,6 +15,7 @@ $target = [
   'framework/CodeIgniter',
   'framework/drupal',
   'framework/evernote-cloud-sdk-php',
+  'framework/htmlpurifier',
   'framework/laravel',
   'framework/magento1',
   'framework/magento2',
@@ -24,10 +25,18 @@ $target = [
   'framework/tcpdf',
   'framework/wordpress',
   'framework/yii2',
-  'framework/zf2'
+  'framework/zf2',
 ];
-exec('rm -rf ' . $root . 'php');
-mkdir($root . 'php', 0777, true);
+
+if (in_array('--path', $argv)) {
+  $path = $argv[array_search('--path', $argv) + 1];
+  $target = [$path];
+  exec('rm -rf ' . $root . 'php/' . $path);
+  mkdir($root . 'php/' . $path, 0777, true);
+} else {
+  exec('rm -rf ' . $root . 'php');
+  mkdir($root . 'php', 0777, true);
+}
 
 
 function buildTokenFile($filename, $target) {
