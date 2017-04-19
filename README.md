@@ -29,4 +29,5 @@ Zend Engine v3.0.0, Copyright (c) 1998-2016 Zend Technologies
 * [php-langspec](https://github.com/glayzzle/php-langspec)
 * [wordpress](https://github.com/WordPress/WordPress)
 * [cakephp](https://github.com/cakephp/cakephp)
+* [aws-sdk-php](https://github.com/aws/aws-sdk-php)
 * if you want another framework to be tested, just report an issue
