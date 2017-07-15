@@ -7,10 +7,10 @@ This project is a easy way to include most common frameworks and do tests over t
 # PHP version used for tokens
 
 ```
-PHP 7.0.14-2+deb.sury.org~xenial+1 (cli) ( NTS )
-Copyright (c) 1997-2016 The PHP Group
-Zend Engine v3.0.0, Copyright (c) 1998-2016 Zend Technologies
-    with Zend OPcache v7.0.14-2+deb.sury.org~xenial+1, Copyright (c) 1999-2016, by Zend Technologies
+PHP 7.0.21-1~ubuntu16.04.1+deb.sury.org+1 (cli) (built: Jul  6 2017 09:07:54) ( NTS )
+Copyright (c) 1997-2017 The PHP Group
+Zend Engine v3.0.0, Copyright (c) 1998-2017 Zend Technologies
+    with Zend OPcache v7.0.21-1~ubuntu16.04.1+deb.sury.org+1, Copyright (c) 1999-2017, by Zend Technologies
 ```
 
 ## List of tested frameworks
