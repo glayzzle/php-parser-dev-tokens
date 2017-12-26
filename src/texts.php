@@ -11,7 +11,7 @@
   var_dump("$colors[01]");		// invalid index
   var_dump("$colors[0x1]");		// invalid index
   var_dump("$colors[0X1]");		// invalid index
-
+  echo "foo is => ${foo()}";
   echo "~'.{{$expectedLength}}'\$~s";
   $obj = new stdClass();
   $obj->name = 'john';
